@@ -116,5 +116,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, feel free to contact me:
 
 - **Name**: Suraj Paul  
-- **Email**: your-email@example.com  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: paulsuraj044@gmail.com  
+- **LinkedIn**: [linkedin.com/suraj-paul-1a559a199](https://www.linkedin.com/in/suraj-paul-1a559a199/)
