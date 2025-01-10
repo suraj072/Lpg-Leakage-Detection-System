@@ -18,9 +18,9 @@ A **Flutter-based LPG Gas Leak Monitoring App** that ensures safety by continuou
 
 ## Screenshots
 
-| Home Screen               | Monitoring Data         | Alert Notification       |
+| Home Screen               | Monitoring Data         | Emergency call       |
 |---------------------------|-------------------------|--------------------------|
-| ![Home Screen](https://drive.google.com/file/d/1rd3w3_Vf6IheZoWDs5KHW7zc424v0HZF/view?usp=drive_link) | ![Monitoring Data](https://drive.google.com/file/d/1rmuZwwZTRhuG8I_dE9nOFunryfedRwH4/view?usp=sharing) | ![Alert Notification](link-to-image) |
+| ![Home Screen](https://drive.google.com/file/d/1rd3w3_Vf6IheZoWDs5KHW7zc424v0HZF/view?usp=drive_link) | ![Monitoring Data](https://drive.google.com/file/d/1rmuZwwZTRhuG8I_dE9nOFunryfedRwH4/view?usp=sharing) | ![Emergency Call](https://drive.google.com/file/d/1rn8oU4KOoVQR5DyEFFMvK7qLdBjnKNqi/view?usp=sharing) |
 
 ---
 
